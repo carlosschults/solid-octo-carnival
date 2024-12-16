@@ -6,4 +6,4 @@ Want to practice making pull requests? Just add one here and I'll accept it. Hav
 
 Comment section: # Trying to understand how to introduce Microsoft Word comments way here
 - This is amazing... :)
-- Thanks for making this tutorial
+- Thanks for making this tutorial # I want to change this line
